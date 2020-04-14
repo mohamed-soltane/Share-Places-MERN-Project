@@ -2,10 +2,11 @@ import React from 'react';
 import UsersList from '../components/UsersList';
 
 const Users = () => {
-    const USERS =[{
+    const USERS =[
+    {
       id: 'u1',
       name:'soltane',
-      image:'https://www.pexels.com/photo/america-architecture-bay-boat-208745/',
+      image:'https://randomuser.me/api/portraits/men/43.jpg',
       places:3
     }
   ];
