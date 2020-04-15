@@ -9,6 +9,7 @@ const Users = () => {
       image:'https://randomuser.me/api/portraits/men/43.jpg',
       places:3
     }
+  
   ];
       return <UsersList items={USERS}/>;
 }
